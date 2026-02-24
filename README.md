@@ -2,7 +2,9 @@
 
 A **local AI-powered assistant** for **Microsoft Dynamics 365 Business Central** developers,  
 designed to behave like a **senior BC technical consultant**.
+
 What's the catch? - "Unlimited searches/tokens."
+
 How did I make it happen? - Since this whole thing runs on your PC specs, it has unlimited tokens and searches.
 
 Built using **Streamlit + Ollama**, this agent generates **production-ready AL code**, follows **Microsoft best practices**, and understands **tables, pages, reports, RDLC, and codeunits** — all while running **100% locally**.
